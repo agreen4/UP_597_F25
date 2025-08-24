@@ -1,0 +1,31 @@
+---
+title: "Course Schedule"
+format: html
+toc: true
+sidebar: true
+editor: source
+---
+
+## Course Schedule
+
+| Meeting | Date | Topics and Themes |
+|---------------|---------------|-----------------------------------------|
+| 1 | August 28th | What Do We Want to Know? – Scoping and Logistics |
+| 2 | September 11th | What Do We Already Know? – Collect Literature, Demographic Data, and Case Studies |
+| 3 | September 25th | Shared Session – Literature Review Themes and Research Plans |
+| 4 | October 9th | C-U and Cville Deep Dive – Planning Documents and Organization Map |
+| 5 | October 16th | Key Informant Interviews – Refine Protocol and Secure Participation |
+| 6 | November 6th | Key Informant Interviews – Summarize What You Heard |
+| 7 | November 20th | Communicate Your Findings – Work on Report/Story Map and Presentation |
+| 8 | December 4th | Shared Session – Presentation and Next Steps |
+
+## Assignment Schedule
+
+| Assignment | Due Date | Description |
+|-----------------------------|-------------------------|---------------------------------------------------------------|
+| **Literature Review** | September 25 | All enrolled students will collaborate on a literature review document that reflects the questions and issues that emerge from the initial class session. Structured as an annotated bibliography, students will draw upon this work throughout the semester and reflect on its broader themes during the third session. |
+| **Deep Dive Summary** | October 9 | Student teams will identify relevant planning documents and inventory organizations that serve older people in their respective regions. Qualitative content analysis will be used to explore the extent to which local governments in Champaign-Urbana and Charlottesville proactively planning for an aging population. The inventory will be used to develop a visualization of key participants in the network of organizations that serve older people and how they interact. |
+| **Interview Protocol** | October 16 | All enrolled students will work together to develop a brief semi structured interview protocol to be used when speaking with key informants (i.e., planners and staff at organizations that serve older people). |
+| **Interview Summary** | November 6 | Student teams will synthesize responses to the interview questions and other insights that emerged from speaking with key informants in their respective regions. |
+| **Final Presentation** | December 4 | Student teams will deliver an oral presentations during class that synthesizes and shares what has been learned. The final class session will also reflect on similarities and differences between Champaign-Urbana and Charlottesville, then consider potential next steps. |
+| **Report / Story Map** | December 16 | Student teams will develop a final report or Story Map that compares the state of planning for an aging population within their respective regions with at least one other community that falls at a different place along the urban-rural continuum. |

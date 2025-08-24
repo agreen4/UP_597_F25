@@ -1,0 +1,36 @@
+project:
+  type: website
+  render: 
+    - "*.qmd"
+
+execute: 
+  freeze: auto
+  
+website:
+  title: "UP 597: Planning for the Silver Tsunami"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: syllabus/syllabus.qmd
+        text: "Course Syllabus"
+      - href: schedule/schedule.qmd
+        text: "Course Schedule"
+      
+    search: true
+  favicon: favicon.png
+  page-footer:
+    left: "Content {{< fa regular copyright >}} Andrew J. Greenlee"
+    right: "Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/) </br> Website Code on [Github {{< fa brands github >}}]({{< var course.github >}})"
+
+format:
+  html:
+    theme:
+      light: [flatly, custom.scss]
+      dark: darkly
+    css: 
+      - styles.css
+    toc: true
+
+editor: source
+
