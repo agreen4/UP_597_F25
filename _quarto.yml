@@ -16,6 +16,8 @@ website:
         text: "Course Syllabus"
       - href: schedule/schedule.qmd
         text: "Course Schedule"
+      - href: readings/readings.qmd
+        text: "Reading List"
       
     search: true
   favicon: favicon.png
